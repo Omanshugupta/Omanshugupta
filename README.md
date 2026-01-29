@@ -14,4 +14,5 @@ AI Engineer | Data Scientist | Python Developer
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Omanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omanshugupta&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omanshugupta&show_icons=true&theme=tokyonight)
+
